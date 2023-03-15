@@ -1,7 +1,5 @@
 package com.SintaxeJava.Metodos;
 
-
-
 public class Usuario {
 	public static void main(String[] args) {
 		
