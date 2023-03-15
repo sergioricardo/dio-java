@@ -1,4 +1,4 @@
-package operadores_relacionais;
+package operadores.relacionais;
 
 public class ExercicioDeExemplo {
 	public static void main(String[] args) {
