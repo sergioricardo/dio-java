@@ -1,4 +1,4 @@
-package SintaxeJava.Metodos;
+package sintaxe_java.metodos;
 
 public class Usuario {
 	public static void main(String[] args) {
