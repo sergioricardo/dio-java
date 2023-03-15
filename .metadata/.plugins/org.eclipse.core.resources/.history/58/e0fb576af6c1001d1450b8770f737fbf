@@ -1,0 +1,9 @@
+package com.SintaxeJava.Metodos;
+
+public class SmartTV {
+	//atributos
+	boolean ligada = false;
+	int canal = 1;
+	int volume = 1;
+	
+}

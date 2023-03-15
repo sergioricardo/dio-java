@@ -1,0 +1,5 @@
+2023-03-12 22:45:52,824 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-12 23:05:48,042 [Worker-20: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-13 19:43:51,131 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-13 19:46:58,641 [Worker-18: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\sr_ol\Documents\Sérgio\Programação\DIO - BANCO PAN\3 - Sintaxe Java Basico\testejava\.git]
+2023-03-13 19:47:11,136 [Worker-16: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\sr_ol\Documents\Sérgio\Programação\DIO - BANCO PAN\3 - Sintaxe Java Basico\dio-trilha-java-basico\.git]
