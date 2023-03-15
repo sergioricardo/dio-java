@@ -1,4 +1,4 @@
-package PalavrasReservadas;
+package SintaxeJava.PalavrasReservadas;
 /* teste
 * @autor: Sérgio Ricardo
 */
