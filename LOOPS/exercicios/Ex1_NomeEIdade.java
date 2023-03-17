@@ -1,7 +1,8 @@
+package exercicios;
 
 import java.util.Scanner;
 
-public class NomeEIdade {
+public class Ex1_NomeEIdade {
 	public static void main(String[] args) {
 		String nome;
 		int idade;

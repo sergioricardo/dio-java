@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Dio-Bootcamp-Java-Pan"/>
-	<classpathentry kind="src" path="LOOPS-E-ARRAYS"/>
+	<classpathentry kind="src" path="LOOPS"/>
 	<classpathentry kind="src" path="OPERADORES"/>
 	<classpathentry kind="output" path="SintaxeJava"/>
 </classpath>
