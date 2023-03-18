@@ -1,5 +1,6 @@
 package exercicios;
 
+
 import java.util.Scanner;
 
 public class Ex1_NomeEIdade {
