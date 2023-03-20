@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Ex6_Fatorial {
 	public static void main(String[] args) {
-	
+		
 		int numeroDigitado;
 		int valorFatorial = 1;
 				
