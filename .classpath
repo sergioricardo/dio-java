@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="Dio-Bootcamp-Java-Pan"/>
 	<classpathentry kind="src" path="LOOPS"/>
 	<classpathentry kind="src" path="OPERADORES"/>
+	<classpathentry kind="src" path="ARRAYS"/>
 	<classpathentry kind="output" path="SintaxeJava"/>
 </classpath>
