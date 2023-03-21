@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="Estruturas_De_Repetição_Em_Java"/>
+	<classpathentry kind="src" path="ESTRUTURAS_DE_REPETIÇÃO_EM_JAVA"/>
 	<classpathentry kind="src" path="OPERADORES"/>
-	<classpathentry kind="src" path="ARRAYS"/>
 	<classpathentry kind="output" path="SintaxeJava"/>
 </classpath>
