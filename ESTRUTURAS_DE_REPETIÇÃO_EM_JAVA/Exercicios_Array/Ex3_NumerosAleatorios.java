@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Ex3_NumerosAleatorios {
 	public static void main(String[] args) {
-		Random random = new Random();
+Random random = new Random();
 		
 		int[] numerosAleatorios = new int[20];
 		
@@ -28,4 +28,4 @@ public class Ex3_NumerosAleatorios {
 			System.out.print((numero - 1) + " ");
 		}
 	}
-}
+}		
