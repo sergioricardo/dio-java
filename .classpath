@@ -3,5 +3,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="ESTRUTURAS_DE_REPETIÇÃO_EM_JAVA"/>
 	<classpathentry kind="src" path="OPERADORES"/>
+	<classpathentry kind="src" path="Estrutura_De_Dados_Em_Java"/>
+	<classpathentry kind="src" path="generics_em_java"/>
 	<classpathentry kind="output" path="SintaxeJava"/>
 </classpath>
