@@ -4,7 +4,5 @@
 	<classpathentry kind="src" path="ESTRUTURAS_DE_REPETIÇÃO_EM_JAVA"/>
 	<classpathentry kind="src" path="OPERADORES"/>
 	<classpathentry kind="src" path="Estrutura_De_Dados_Em_Java"/>
-	<classpathentry kind="src" path="generics_em_java"/>
-	<classpathentry kind="src" path="implementacao_classe_pilha"/>
 	<classpathentry kind="output" path="SintaxeJava"/>
 </classpath>
